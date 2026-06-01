@@ -1,0 +1,6 @@
+{
+  "name": "Pashchimanchal Vikas Parishad",
+  "description": "Official website and CMS dashboard of the Pashchimanchal Vikas Parishad NGO",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
